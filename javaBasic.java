@@ -69,7 +69,7 @@
 
 // // }
 
-// // }
+// }
 
 // // print the largest of 3
 
@@ -184,7 +184,6 @@
 // Scanner sc= new Scanner(System.in);
 // int n=sc.nextInt();
 // int sum=0;
-
 // int i=1;
 // while(i<= n){
 // sum +=i;
@@ -243,3 +242,15 @@
 //         System.out.println(rev);
 //     }
 // } 
+
+// do-while loop
+public class javaBasic{
+    public static void main(String args[]){
+        int counter=1;
+        do { 
+            System.out.println("hello world");
+            counter++;
+        } while (counter<=10);
+
+    }
+}
