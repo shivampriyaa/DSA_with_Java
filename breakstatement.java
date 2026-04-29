@@ -1,4 +1,4 @@
-// keet entering your number till user enter a multipal of 1050
+// keet entering your number till user enter a multipal of 10
 
 import java.util.*;
 public class breakstatement {
