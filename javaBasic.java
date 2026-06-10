@@ -15,101 +15,101 @@
 // }
 // }
 
-// //print the largest value of 2
+ //print the largest value of 2
 
-// // public class javaBasics{
-// // public static void main (String args[]){
-// // int A=1;
-// // int B=5;
-// // if(A>=B){
-// // System.out.println("A is largest of 2");
-// // }
-// // else{
-// // System.out.println("B is the largest of 2");
-// // }
-// // }
-// // }
+// public class javaBasics{
+// public static void main (String args[]){
+// int A=1;
+// int B=5;
+// if(A>=B){
+// System.out.println("A is largest of 2");
+// }
+// else{
+// System.out.println("B is the largest of 2");
+// }
+// }
+// }
 
-// //print if a is odd or even( div by 2 or multiple by 2)
+//print if a is odd or even( div by 2 or multiple by 2)
 
-// // import java.util.*;
-// // public class javaBasics{
-// // public static void main(String args[]){
-// // Scanner sc = new Scanner(System.in);
-// // int number =sc.nextInt();
-// // if(number % 2==0){
-// // System.out.println("even");
+// import java.util.*;
+// public class javaBasics{
+// public static void main(String args[]){
+// Scanner sc = new Scanner(System.in);
+// int number =sc.nextInt();
+// if(number % 2==0){
+// System.out.println("even");
 
-// // }
-// // else{
-// // System.out.println("odd");
-// // }
+// }
+// else{
+// System.out.println("odd");
+// }
 
-// // }
-// // }
+// }
+// }
 
-// // Income tax calculatr
+// Income tax calculatr
 
-// // import java.util.*;
-// // public class javaBasics{
-// // public static void main(String args[]){
-// // Scanner sc=new Scanner(System.in);
-// // int income = sc.nextInt();
-// // int tax;
-// // if(income<500000){
-// // tax =0;
-// // }
-// // else if(income>=500000&& income<1000000){
-// // tax=(int)(income*0.2);
-// // }
-// // else{
-// // tax=(int)(income*0.3);
-// // }
-// // System.out.println("your tax is ="+ tax);
-
-// // }
+// import java.util.*;
+// public class javaBasics{
+// public static void main(String args[]){
+// Scanner sc=new Scanner(System.in);
+// int income = sc.nextInt();
+// int tax;
+// if(income<500000){
+// tax =0;
+// }
+// else if(income>=500000&& income<1000000){
+// tax=(int)(income*0.2);
+// }
+// else{
+// tax=(int)(income*0.3);
+// }
+// System.out.println("your tax is ="+ tax);
 
 // }
 
-// // print the largest of 3
+// }
 
-// // public class javaBasics{
-// // public static void main(String args[]){
-// // int A=1, B=3, C=5;
-// // if((A>=B) && (A>=C)){
-// // System.out.println("largest is A");
+ // print the largest of 3
 
-// // }
-// // else if (B>=C){
-// // System.out.println("largest is B");
-// // }
-// // else{
-// // System.out.println("largest is C");
-// // }
+// public class javaBasics{
+// public static void main(String args[]){
+// int A=1, B=3, C=5;
+// if((A>=B) && (A>=C)){
+ // System.out.println("largest is A");
 
-// // }
-// // }
+// }
+// else if (B>=C){
+// System.out.println("largest is B");
+// }
+// else{
+// System.out.println("largest is C");
+// }
 
-// // ternary operator
+// }
+ // }
 
-// // switch statement
-// // public class javaBasics{
-// // public static void main(String args[]){
-// // int number=2;
-// // switch (number){
-// // case 1:System.out.println("samosa");
-// // break;
-// // case 2:System.out.println("burger");
-// // break;
-// // case 3:System.out.println("chai");
-// // break;
-// // default:System.out.println("we wake up");
-// // break;
-// // }
-// // }
-// // }
+// ternary operator
 
-// // Claculator
+// switch statement
+// public class javaBasics{
+// public static void main(String args[]){
+// int number=2;
+// switch (number){
+// case 1:System.out.println("samosa");
+// break;
+// case 2:System.out.println("burger");
+// break;
+// case 3:System.out.println("chai");
+// break;
+// default:System.out.println("we wake up");
+// break;
+// }
+// }
+// }
+
+// Claculator
 
 // import java.util.Scanner;
 // public class javaBasics{
